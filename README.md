@@ -1,6 +1,8 @@
 # AI Travel Planner 🌍
 
 A powerful travel planning application with **natural language AI interface** that aggregates data from multiple sources to provide comprehensive travel information including weather forecasts, attractions, and travel insights.
+<img width="1396" height="737" alt="Screenshot 2026-01-01 at 3 22 58 PM" src="https://github.com/user-attachments/assets/cfcd5d71-c753-4ad5-bc06-8d3ab854fa85" />
+
 
 ## ✨ New Features (v2.0)
 
